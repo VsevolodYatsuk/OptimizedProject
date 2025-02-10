@@ -1,0 +1,15 @@
+C:\Users\Vsevolod\Documents\пересдача\OptimizedProject\OptimizedProject\bin\Debug\net6.0\OptimizedProject.exe
+C:\Users\Vsevolod\Documents\пересдача\OptimizedProject\OptimizedProject\bin\Debug\net6.0\OptimizedProject.deps.json
+C:\Users\Vsevolod\Documents\пересдача\OptimizedProject\OptimizedProject\bin\Debug\net6.0\OptimizedProject.runtimeconfig.json
+C:\Users\Vsevolod\Documents\пересдача\OptimizedProject\OptimizedProject\bin\Debug\net6.0\OptimizedProject.dll
+C:\Users\Vsevolod\Documents\пересдача\OptimizedProject\OptimizedProject\bin\Debug\net6.0\OptimizedProject.pdb
+C:\Users\Vsevolod\Documents\пересдача\OptimizedProject\OptimizedProject\obj\Debug\net6.0\OptimizedProject.csproj.AssemblyReference.cache
+C:\Users\Vsevolod\Documents\пересдача\OptimizedProject\OptimizedProject\obj\Debug\net6.0\OptimizedProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vsevolod\Documents\пересдача\OptimizedProject\OptimizedProject\obj\Debug\net6.0\OptimizedProject.AssemblyInfoInputs.cache
+C:\Users\Vsevolod\Documents\пересдача\OptimizedProject\OptimizedProject\obj\Debug\net6.0\OptimizedProject.AssemblyInfo.cs
+C:\Users\Vsevolod\Documents\пересдача\OptimizedProject\OptimizedProject\obj\Debug\net6.0\OptimizedProject.csproj.CoreCompileInputs.cache
+C:\Users\Vsevolod\Documents\пересдача\OptimizedProject\OptimizedProject\obj\Debug\net6.0\OptimizedProject.dll
+C:\Users\Vsevolod\Documents\пересдача\OptimizedProject\OptimizedProject\obj\Debug\net6.0\refint\OptimizedProject.dll
+C:\Users\Vsevolod\Documents\пересдача\OptimizedProject\OptimizedProject\obj\Debug\net6.0\OptimizedProject.pdb
+C:\Users\Vsevolod\Documents\пересдача\OptimizedProject\OptimizedProject\obj\Debug\net6.0\OptimizedProject.genruntimeconfig.cache
+C:\Users\Vsevolod\Documents\пересдача\OptimizedProject\OptimizedProject\obj\Debug\net6.0\ref\OptimizedProject.dll
